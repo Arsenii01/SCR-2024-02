@@ -31,6 +31,8 @@ object controlStructures {
   // присвойте его в переменную х1
 
   val x1: String = if(cond) "yes" else "no"
+  println(x1)
+
 
 
 
